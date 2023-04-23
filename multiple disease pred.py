@@ -4,9 +4,7 @@ Created on Sun Apr 23 12:22:08 2023
 
 @author: Malvika Reddy
 """
-import sys
 
-sys.path.insert(1, "C:/Users/Malvika Reddy/Desktop/Multiple Disease Prediction/multiple disease pred.py/streamlit_option_menu")
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
